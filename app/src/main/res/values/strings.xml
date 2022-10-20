@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="to">To</string>
+    <string name="home">Home</string>
+    <string name="market_status">Market Status</string>
+    <string name="help">Help</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="convert">Convert</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="to_currency">To Currency</string>
+    <string name="from_currency">From Currency</string>
+    <string name="result">Result</string>
+    <string name="la_currency">La Currency</string>
+    <string name="todo">TODO</string>
+    <string name="welcome_to_la_currency">Welcome to La Currency</string>
+    <string name="base">Base</string>
+    <string name="e_mail">Email</string>
+    <string name="question_currencies_tracked">Question: How many currencies does this app track?</string>
+    <string name="question_base_currency">Question: What is the base currency?</string>
+    <string name="sign_up_text">Don\'t have an account? Sign up here.</string>
+    <string name="login_label">Login</string>
+    <string name="signup_label">Sign Up</string>
+    <string name="last_name_label">Last Name</string>
+    <string name="first_name_label">First Name</string>
+    <string name="log_in_text">Already have an account? Login here.</string>
+    <string name="date_of_birth">DOB</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="logout">Logout</string>
+</resources>
